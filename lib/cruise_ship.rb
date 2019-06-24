@@ -12,7 +12,7 @@ passengers.each do |suite, name|
   end
 end
 
-winner
+
 def select_winner(passengers)
   # add the code snippet here!
 end
